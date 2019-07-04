@@ -15,6 +15,7 @@ fieldset{
     background-image: url("img/background2.jpg");
     padding: 30px;
     margin: 10px;
+    border-color: transparent;
 
 
 
@@ -22,12 +23,12 @@ fieldset{
 }
 
 legend{
-    border-radius: 0 0 10px;
-    background-color: black;
-    border: 2px solid darkred;
-    box-shadow: lightcoral;
+
+    background-color: red;
+    box-shadow: black;
     font-family: "Old English Text MT",sans-serif;
     font-size: 20px;
+    border-color: transparent;
 
 }
 
