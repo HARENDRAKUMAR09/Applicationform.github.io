@@ -1,0 +1,62 @@
+body {
+    background: linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0.3)),url("img/background1.jpg");
+    margin: 20px;
+    width: 90%;
+    color: white;
+    font-family: sans-serif;
+
+
+
+
+}
+
+
+fieldset{
+    background-image: url("img/background2.jpg");
+    padding: 30px;
+    margin: 10px;
+
+
+
+
+}
+
+legend{
+    border-radius: 0 0 10px;
+    background-color: black;
+    border: 2px solid darkred;
+    box-shadow: lightcoral;
+    font-family: "Old English Text MT",sans-serif;
+    font-size: 20px;
+
+}
+
+h1{
+    text-align: center;
+    font-family: "Old English Text MT",sans-serif;
+    color: red;
+    background: black;
+    border-radius: 35px;
+
+}
+div{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    
+}
+
+
+.button{
+    background-image: url("img/background2.jpg");
+    text-decoration-color: white;
+    color: white;
+
+}
+#tabb{
+    border-radius: 30px;
+    color: white;
+    background-image: url("img/background img.jpg");
+
+}
+
